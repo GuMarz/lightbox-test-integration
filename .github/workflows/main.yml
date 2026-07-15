@@ -1,4 +1,4 @@
-ame: cypress-testing
+name: cypress-testing
 on: push
 jobs:
   cypress-run:
